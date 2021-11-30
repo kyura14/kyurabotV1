@@ -167,6 +167,7 @@ conn.logger.level = 'debug'
 
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![KyuraSaja](https://github.com/KyuraSaja.png?size=100)](https://github.com/KyuraSaja)
 
 #### Contributor
 [![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
