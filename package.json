@@ -1,7 +1,7 @@
 {
-  "name": "games-wabot",
+  "name": "kyurabot",
   "version": "0.9.8",
-  "description": "Customizable WhatsApp Bot",
+  "description": "WhatApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
